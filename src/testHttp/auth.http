@@ -4,6 +4,6 @@ POST {{url}}/auth
 Content-Type: application/json
 
 {
-    "nomeDeUsuario" : "teste",
-    "senha" : "teste"
+    "nomeDeUsuario" : "admin",
+    "senha" : "admin"
 }
